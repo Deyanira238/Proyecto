@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Explicación del proyecto
+### Explicación del proyecto
 Smart locker es una aplicación que el zorro abarrotero nos solicita, esta aplicación servirá para que los clientes del zorro puedan recibir la información necesaria y poder recoger su pedido en las sucursales o en las tiendas filiales al zorro abarrotero. Para fines de la materia se simulará hacer un pedido sólo contemplando la selección de los productos de la base de datos sin considerar el costo de los mismo ni el pagarlos.
 
 1.	El cliente deberá crear una cuenta de usuario.
