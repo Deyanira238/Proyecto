@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Explicación del proyecto
+Smart locker es una aplicación que el zorro abarrotero nos solicita, esta aplicación servirá para que los clientes del zorro puedan recibir la información necesaria y poder recoger su pedido en las sucursales o en las tiendas filiales al zorro abarrotero. Para fines de la materia se simulará hacer un pedido sólo contemplando la selección de los productos de la base de datos sin considerar el costo de los mismo ni el pagarlos.
+
+1.	El cliente deberá crear una cuenta de usuario.
+2.	El cliente deberá ingresar usuario y contraseña para acceder a la aplicación 
+3.	El cliente creará su pedido
+4.	El cliente seleccionará de la lista mostrada los productos y cantidades para finalmente confirmar su orden
+5.	El sistema habilitará un nuevo botón para que el cliente pueda ver su historial de pedidos los cuales estarán organizados por fechas o lugar. De la más reciente a la más antigua o en orden alfabético. 
+6.	Al ingresar a la lista de pedidos podrá desplegar una lista en el caso en que en una sola fecha haya más de 1 pedido
+7.	Al ingresar al pedido deseado habrá un botón informando del estatus de su pedido (disponible, en proceso de surtido o no disponible).
+8.	Si el botón del estatus esta en disponible, al darle click nos re direccionará a una nueva vista donde aparecerá el código QR, el número de locker donde se encuentra el pedido y se activará un timer,  iniciando en 24 horas, donde se indicará el tiempo restante para ir por su pedido.
+9.	Una vez que se escaneo el código QR en el locker, el sistema enviará un mensaje que la orden a sido entregada y agradeciendo por el uso de la aplicación.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
