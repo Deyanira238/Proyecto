@@ -7,7 +7,7 @@ Smart locker es una aplicación que el zorro abarrotero nos solicita, esta aplic
 2.	El cliente deberá ingresar usuario y contraseña para acceder a la aplicación 
 3.	El cliente creará su pedido
 4.	El cliente seleccionará de la lista mostrada los productos y cantidades para finalmente confirmar su orden
-5.	El sistema habilitará un nuevo botón para que el cliente pueda ver su historial de pedidos los cuales estarán organizados por fechas o lugar. De la más reciente a la más antigua o en orden alfabético. 
+5.	El sistema habilitará un nuevo botón para que el cliente pueda ver su historial de pedidos los cuales estarán organizados por fechas. De la más reciente a la más antigua. 
 6.	Al ingresar a la lista de pedidos podrá desplegar una lista en el caso en que en una sola fecha haya más de 1 pedido
 7.	Al ingresar al pedido deseado habrá un botón informando del estatus de su pedido (disponible, en proceso de surtido o no disponible).
 8.	Si el botón del estatus esta en disponible, al darle click nos re direccionará a una nueva vista donde aparecerá el código QR, el número de locker donde se encuentra el pedido y se activará un timer,  iniciando en 24 horas, donde se indicará el tiempo restante para ir por su pedido.
